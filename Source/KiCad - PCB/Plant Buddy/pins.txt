@@ -1,0 +1,3 @@
+gpio 33 for battery voltage
+gpio 32 for soil readings
+gpio 5 for driving motor

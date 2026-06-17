@@ -1,0 +1,16 @@
+water pump: https://www.ram-e-shop.com/shop/dc-pump-6vdc-water-pump-3-6vdc-mini-120l-h-7422
+hose: https://www.ram-e-shop.com/shop/dc-pump-hose-6x8-1m-water-pump-hose-6x8mm-pvc-clear-vinyl-tubing-1-meter-7954
+Flow sensor: https://store.fut-electronics.com/products/water-flow-rate-sensor?_pos=8&_sid=5e9c09df8&_ss=r
+SIM800L: https://store.fut-electronics.com/collections/gsm-gprs/products/sim800l-gprs-gsm-module-esp-core-board-with-built-in-antenna
+6w solar: https://store.fut-electronics.com/products/solar-cell-129-x-129-mm-3w?_pos=3&_sid=fdb2b11fe&_ss=r
+Mini solar charger: https://store.fut-electronics.com/products/solar-usb-charger-for-lithium-batteries-lipo-rider?_pos=5&_sid=fdb2b11fe&_ss=r
+JST: https://www.ram-e-shop.com/shop/pw-m-pcb-2pin-pw-m-2-pin-polarized-male-jst-xh2-54-connector-for-pcb-6463
+step up module: https://lampatronics.com/product/dc-dc-step-up-boost-converter-module-xl6009-3a
+AMS1117-3.3: https://www.ram-e-shop.com/shop/lt1117-3-3v-ams1117-3-3v-6628
+1N4148WS: https://makerselectronics.com/product/smd-switching-diode-1n4148ws-t4-100v-independent-type-1-25v150ma-4ns-150ma-sod-323/
+555: https://uge-one.com/product/tlc555cdr-low-power-cmos-timer-ic-smd-sop8/
+terminal connector: https://www.ram-e-shop.com/shop/r-3-roseta-2pin-2-pin-pcb-screw-terminal-block-pitch-5mm-r-3-5854
+
+
+
+
