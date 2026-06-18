@@ -1,3 +1,6 @@
-gpio 33 for battery voltage
-gpio 32 for soil readings
-gpio 5 for driving motor
+gpio 33 for battery voltage -
+gpio 32 for soil readings -
+gpio 5 for pump motor -
+gpio 3 for gsm_tx -
+gpio 1 for gsm_rx -
+gpio 13 for flow -
