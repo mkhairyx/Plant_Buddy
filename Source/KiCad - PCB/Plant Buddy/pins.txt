@@ -4,3 +4,4 @@ gpio 5 for pump motor -
 gpio 3 for gsm_tx -
 gpio 1 for gsm_rx -
 gpio 13 for flow -
+gpio 25 for ring ping -
