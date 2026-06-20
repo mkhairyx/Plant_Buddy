@@ -76,7 +76,24 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_over_copper|153064225|98324679|bbad0b9f-cd0b-42f2-a8e4-122fc13a9366|6fad5817-0b92-463b-9ade-71cfbdfa931d",
+          ""
+        ],
+        [
+          "silk_over_copper|153145000|100315000|bbad0b9f-cd0b-42f2-a8e4-122fc13a9366|818ddc3a-ec74-49f2-bc1f-80a811488de8",
+          ""
+        ],
+        [
+          "silk_over_copper|160765000|100315000|bbad0b9f-cd0b-42f2-a8e4-122fc13a9366|df92d459-d003-4f9c-b913-dbf00ba411e0",
+          ""
+        ],
+        [
+          "silk_over_copper|160765000|97775000|bbad0b9f-cd0b-42f2-a8e4-122fc13a9366|57c7a9c0-b417-49d9-a41e-d1d33a9fc23e",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -280,20 +297,12 @@
   "erc": {
     "erc_exclusions": [
       [
-        "lib_symbol_issues|317500|254000|1610ecce-9880-4c34-9286-7b8a197649e2|00000000-0000-0000-0000-000000000000|||",
-        "Modified for convenienvce"
-      ],
-      [
         "power_pin_not_driven|1828800|279400|e6f693fd-e6f8-4949-9e60-275bd2796222|00000000-0000-0000-0000-000000000000|/4f94c837-6daf-4f59-97d2-d69d62a434e7|/4f94c837-6daf-4f59-97d2-d69d62a434e7|",
         ""
       ],
       [
         "power_pin_not_driven|1905000|355600|a51247f3-245d-44bb-b549-4c21c190e400|00000000-0000-0000-0000-000000000000|/4f94c837-6daf-4f59-97d2-d69d62a434e7|/4f94c837-6daf-4f59-97d2-d69d62a434e7|",
         ""
-      ],
-      [
-        "unannotated|317500|558800|2289b781-db43-4563-8402-144288db74e1|00000000-0000-0000-0000-000000000000|||",
-        "Buck IN"
       ]
     ],
     "meta": {
@@ -683,7 +692,7 @@
         "uuid": "4f94c837-6daf-4f59-97d2-d69d62a434e7"
       }
     ],
-    "used_designators": "U4,C12,R9,SW2",
+    "used_designators": "U3-4,C12,R9-10,SW2",
     "variants": []
   },
   "sheets": [

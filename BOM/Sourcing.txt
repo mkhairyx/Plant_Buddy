@@ -24,9 +24,10 @@ Female headers : https://www.ram-e-shop.com/shop/ph35-1x4-female-ph35-pin-header
 1.6Kohm: https://store.fut-electronics.com/products/resistor-1-6-kohm
 2Kohm: https://lampatronics.com/product/smd-resistor-2kohm-202-0805-10pcs
 3Kohm: https://lampatronics.com/product/smd-resistor-3kohm-302-0805-10pcs
+220ohm : https://lampatronics.com/product/smd-resistor-220ohm-221-0805-10pcs
 RST button: https://lampatronics.com/product/push-button-4pin-long-6x6x13mm
 AMS1117-3.3: https://lampatronics.com/product/ams1117-33v-sot-223-33v-linear-voltage-regulator
-
+Battery: https://store.fut-electronics.com/products/3-7v-rechargeable-polymer-lithium-ion-battery-ecocell?_pos=3&_sid=4fcef8d7d&_ss=r
 
 
 
