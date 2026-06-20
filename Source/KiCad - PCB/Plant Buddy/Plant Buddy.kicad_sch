@@ -3861,7 +3861,7 @@
 		(uuid "c7de3a29-e52f-4be5-8161-54ee4f2ad377")
 	)
 	(junction
-		(at 226.06 35.56)
+		(at 217.17 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cee4e0b4-6e96-4b14-85a7-7a18251c6e4b")
@@ -4028,7 +4028,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 24.13) (xy 226.06 26.67)
+			(xy 217.17 21.59) (xy 217.17 25.4)
 		)
 		(stroke
 			(width 0)
@@ -4138,7 +4138,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 34.29) (xy 226.06 35.56)
+			(xy 217.17 33.02) (xy 217.17 34.29)
 		)
 		(stroke
 			(width 0)
@@ -4278,7 +4278,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 45.72) (xy 233.68 45.72)
+			(xy 217.17 44.45) (xy 224.79 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4378,13 +4378,23 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 35.56) (xy 226.06 36.83)
+			(xy 217.17 34.29) (xy 217.17 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "4f8f6925-0352-4f3d-a184-277da54e5fb5")
+	)
+	(wire
+		(pts
+			(xy 217.17 21.59) (xy 238.76 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fdbeede-1746-4618-8c5e-e6dcc5359f1c")
 	)
 	(wire
 		(pts
@@ -4398,7 +4408,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 35.56) (xy 233.68 35.56)
+			(xy 217.17 34.29) (xy 224.79 34.29)
 		)
 		(stroke
 			(width 0)
@@ -4425,16 +4435,6 @@
 			(type default)
 		)
 		(uuid "53ea1334-2e01-4a94-a6f9-f6c4a48a5ce3")
-	)
-	(wire
-		(pts
-			(xy 238.76 24.13) (xy 226.06 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "552d2313-d8ad-4333-8c00-1849fdb91d3f")
 	)
 	(wire
 		(pts
@@ -4518,6 +4518,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 19.05) (xy 238.76 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "699a4cd8-7911-43ef-a36f-5a63f1989a32")
+	)
+	(wire
+		(pts
 			(xy 271.78 27.94) (xy 274.32 27.94)
 		)
 		(stroke
@@ -4578,7 +4588,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 44.45) (xy 226.06 45.72)
+			(xy 217.17 43.18) (xy 217.17 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4805,16 +4815,6 @@
 			(type default)
 		)
 		(uuid "a63a5470-8821-42fd-b248-1a24faa3bfd0")
-	)
-	(wire
-		(pts
-			(xy 237.49 26.67) (xy 238.76 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6d4c6d0-69d6-4430-a909-a2f3855dd261")
 	)
 	(wire
 		(pts
@@ -5238,7 +5238,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 21.59) (xy 238.76 21.59)
+			(xy 237.49 16.51) (xy 238.76 16.51)
 		)
 		(stroke
 			(width 0)
@@ -5322,7 +5322,7 @@
 	)
 	(global_label "FLOW"
 		(shape input)
-		(at 233.68 35.56 0)
+		(at 224.79 34.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5332,7 +5332,7 @@
 		)
 		(uuid "0856cc5c-d414-4d3f-a333-d5697e8b98f3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 241.5638 35.56 0)
+			(at 232.6738 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5634,7 +5634,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 233.68 45.72 0)
+		(at 224.79 44.45 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5644,7 +5644,7 @@
 		)
 		(uuid "578888b4-e1b4-4ae5-85d5-20b1affc5b32")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 240.5357 45.72 0)
+			(at 231.6457 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5754,7 +5754,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 237.49 21.59 180)
+		(at 237.49 16.51 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5764,7 +5764,7 @@
 		)
 		(uuid "778343d2-1d05-48d7-aff2-508fe2131044")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 230.6343 21.59 0)
+			(at 230.6343 16.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5874,7 +5874,7 @@
 	)
 	(global_label "VBUS"
 		(shape input)
-		(at 237.49 26.67 180)
+		(at 237.49 19.05 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5884,7 +5884,7 @@
 		)
 		(uuid "9e075a6f-e88f-41f7-baaf-de1febd45019")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 229.6062 26.67 0)
+			(at 229.6062 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6739,7 +6739,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 243.84 24.13 0)
+		(at 243.84 19.05 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6749,7 +6749,7 @@
 		(dnp no)
 		(uuid "1142fc93-580e-46ba-81b8-d5c8483d3ace")
 		(property "Reference" "J2"
-			(at 233.934 15.748 0)
+			(at 234.188 27.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6760,7 +6760,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 233.934 18.288 0)
+			(at 234.188 29.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6771,7 +6771,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"
-			(at 243.84 24.13 0)
+			(at 243.84 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6782,7 +6782,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 24.13 0)
+			(at 243.84 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6793,7 +6793,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 243.84 24.13 0)
+			(at 243.84 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7689,7 +7689,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 226.06 30.48 0)
+		(at 217.17 29.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7700,7 +7700,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c45435f-85c0-409a-a02c-2c857a97a8bc")
 		(property "Reference" "R7"
-			(at 228.6 29.2099 0)
+			(at 219.71 27.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7711,7 +7711,7 @@
 			)
 		)
 		(property "Value" "2K"
-			(at 228.6 31.7499 0)
+			(at 219.71 30.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7722,7 +7722,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 224.282 30.48 90)
+			(at 215.392 29.21 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7733,7 +7733,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 30.48 0)
+			(at 217.17 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7744,7 +7744,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 226.06 30.48 0)
+			(at 217.17 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9047,7 +9047,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 226.06 40.64 0)
+		(at 217.17 39.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9058,7 +9058,7 @@
 		(fields_autoplaced yes)
 		(uuid "a155c431-0e98-432a-a0c7-f4849f2e4003")
 		(property "Reference" "R8"
-			(at 228.6 39.3699 0)
+			(at 219.71 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9069,7 +9069,7 @@
 			)
 		)
 		(property "Value" "3K"
-			(at 228.6 41.9099 0)
+			(at 219.71 40.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9080,7 +9080,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 224.282 40.64 90)
+			(at 215.392 39.37 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9091,7 +9091,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 40.64 0)
+			(at 217.17 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9102,7 +9102,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 226.06 40.64 0)
+			(at 217.17 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
