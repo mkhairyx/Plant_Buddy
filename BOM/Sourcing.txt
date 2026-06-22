@@ -1,34 +1,35 @@
-water pump: https://www.ram-e-shop.com/shop/dc-pump-6vdc-water-pump-3-6vdc-mini-120l-h-7422
-hose: https://www.ram-e-shop.com/shop/dc-pump-hose-6x8-1m-water-pump-hose-6x8mm-pvc-clear-vinyl-tubing-1-meter-7954
-Flow sensor: https://store.fut-electronics.com/products/water-flow-rate-sensor?_pos=8&_sid=5e9c09df8&_ss=r
-SIM800L: https://store.fut-electronics.com/collections/gsm-gprs/products/sim800l-gprs-gsm-module-esp-core-board-with-built-in-antenna
-6w solar: https://store.fut-electronics.com/products/solar-cell-129-x-129-mm-3w?_pos=3&_sid=fdb2b11fe&_ss=r
-Mini solar charger: https://store.fut-electronics.com/products/solar-usb-charger-for-lithium-batteries-lipo-rider?_pos=5&_sid=fdb2b11fe&_ss=r
-JST: https://www.ram-e-shop.com/shop/pw-m-pcb-2pin-pw-m-2-pin-polarized-male-jst-xh2-54-connector-for-pcb-6463
+- water pump: https://www.ram-e-shop.com/shop/dc-pump-6vdc-water-pump-3-6vdc-mini-120l-h-7422
+- hose: https://lampatronics.com/product/flexible-clear-hose-tube-pipe-6mm-airwater-pump-pvc
+- Flow sensor: https://store.fut-electronics.com/products/water-flow-rate-sensor?_pos=8&_sid=5e9c09df8&_ss=r
+- SIM800L: https://store.fut-electronics.com/collections/gsm-gprs/products/sim800l-gprs-gsm-module-esp-core-board-with-built-in-antenna
+- 6w solar: https://store.fut-electronics.com/products/solar-cell-129-x-129-mm-3w?_pos=3&_sid=fdb2b11fe&_ss=r
+- Mini solar charger: https://store.fut-electronics.com/products/solar-usb-charger-for-lithium-batteries-lipo-rider?_pos=5&_sid=fdb2b11fe&_ss=r
+- JST: https://www.ram-e-shop.com/shop/pw-m-pcb-2pin-pw-m-2-pin-polarized-male-jst-xh2-54-connector-for-pcb-6463
 step up module: https://lampatronics.com/product/dc-dc-step-up-boost-converter-module-xl6009-3a
-AMS1117-3.3: https://www.ram-e-shop.com/shop/lt1117-3-3v-ams1117-3-3v-6628
 1N4148WS: https://makerselectronics.com/product/smd-switching-diode-1n4148ws-t4-100v-independent-type-1-25v150ma-4ns-150ma-sod-323/
-555: https://uge-one.com/product/tlc555cdr-low-power-cmos-timer-ic-smd-sop8/
-terminal connector: https://www.ram-e-shop.com/shop/r-3-roseta-2pin-2-pin-pcb-screw-terminal-block-pitch-5mm-r-3-5854
-Female headers : https://www.ram-e-shop.com/shop/ph35-1x4-female-ph35-pin-header-female-1x4-straight-2-54mm-6976
-1.5kohm: https://lampatronics.com/product/resistor-1-5k-ohm-1-4w-4pcs-2
-4.7uF: https://lampatronics.com/product/smd-multilayer-ceramic-capacitor-1206-4-7uf-16v-1pcs
-100nF: https://lampatronics.com/product/smd-multilayer-ceramic-capacitor-0805-2012-104-100nf-50v-1pcs-2
-1uF: https://lampatronics.com/product/smd-ceramic-capacitor-0805-1051uf-50v-1pcs
-10uF: https://lampatronics.com/product/smd-multilayer-ceramic-capacitor-0805-10610uf-16v-1pcs
-1N4148WS: https://lampatronics.com/product/smd-diode-1n4148ws-10pcs
-1Kohm: https://lampatronics.com/product/smd-resistor-1kohm-102-0805-10pcs
-1Mohm: https://lampatronics.com/product/smd-resistor-1mohm-105-0805-10pcs
-10Kohm:https://lampatronics.com/product/smd-resistor-10kohm-103-0805-10pcs
-330ohm: https://lampatronics.com/product/smd-resistor-330ohm-331-0805-10pcs
-1.6Kohm: https://store.fut-electronics.com/products/resistor-1-6-kohm
-2Kohm: https://lampatronics.com/product/smd-resistor-2kohm-202-0805-10pcs
-3Kohm: https://lampatronics.com/product/smd-resistor-3kohm-302-0805-10pcs
-220ohm : https://lampatronics.com/product/smd-resistor-220ohm-221-0805-10pcs
-RST button: https://lampatronics.com/product/push-button-4pin-long-6x6x13mm
-AMS1117-3.3: https://lampatronics.com/product/ams1117-33v-sot-223-33v-linear-voltage-regulator
-Battery: https://store.fut-electronics.com/products/3-7v-rechargeable-polymer-lithium-ion-battery-ecocell?_pos=3&_sid=4fcef8d7d&_ss=r
-
+- 555: https://uge-one.com/product/tlc555cdr-low-power-cmos-timer-ic-smd-sop8/
+- terminal connector: https://www.ram-e-shop.com/shop/r-3-roseta-2pin-2-pin-pcb-screw-terminal-block-pitch-5mm-r-3-5854
+- Female headers : https://www.ram-e-shop.com/shop/ph35-1x4-female-ph35-pin-header-female-1x4-straight-2-54mm-6976
+- 4.7uF: https://lampatronics.com/product/smd-multilayer-ceramic-capacitor-1206-4-7uf-16v-1pcs
+- 100nF: https://lampatronics.com/product/smd-multilayer-ceramic-capacitor-0805-2012-104-100nf-50v-1pcs-2
+- 1uF: https://lampatronics.com/product/smd-ceramic-capacitor-0805-1051uf-50v-1pcs
+- 10uF: https://lampatronics.com/product/smd-multilayer-ceramic-capacitor-0805-10610uf-16v-1pcs
+- 1N4148WS: https://lampatronics.com/product/smd-diode-1n4148ws-10pcs
+- AO3401: https://uge-one.com/product/ao3401-sot23-general-purpose-p-channel-mosfet-smd-transistor-sot-23/
+- 1Kohm: https://lampatronics.com/product/smd-resistor-1kohm-102-0805-10pcs
+- 1Mohm: https://lampatronics.com/product/smd-resistor-1mohm-105-0805-10pcs
+- 10Kohm: https://lampatronics.com/product/smd-resistor-10kohm-103-0805-10pcs
+- 330ohm: https://lampatronics.com/product/smd-resistor-330ohm-331-0805-10pcs
+- 1.5Kohm: https://lampatronics.com/product/resistor-1-5k-ohm-1-4w-4pcs-2
+- 2Kohm: https://lampatronics.com/product/smd-resistor-2kohm-202-0805-10pcs
+- 3Kohm: https://lampatronics.com/product/smd-resistor-3kohm-302-0805-10pcs
+- 220ohm : https://lampatronics.com/product/smd-resistor-220ohm-221-0805-10pcs
+- RST button: https://lampatronics.com/product/push-button-4pin-long-6x6x13mm
+- AMS1117-3.3: https://lampatronics.com/product/ams1117-33v-sot-223-33v-linear-voltage-regulator
+- PC817: https://lampatronics.com/product/pc817-optocoupler-dip-4
+- ESP32: https://lampatronics.com/product/esp32-30pin-development-board-wifi-and-bluetooth
+- Battery: https://store.fut-electronics.com/products/3-7v-rechargeable-polymer-lithium-ion-battery-ecocell?_pos=3&_sid=4fcef8d7d&_ss=r
+- four M5 screws: https://store.fut-electronics.com/products/screw-m5x25mm-hexagonal-head?_pos=5&_sid=c4191184f&_ss=r
 
 
 
