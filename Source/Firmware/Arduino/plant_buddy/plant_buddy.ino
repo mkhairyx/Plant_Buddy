@@ -65,6 +65,7 @@ void setup()
   Serial.println("The device just booted up!");
   Serial.print("The battery is at ");
   Serial.println(BATP);
+  Serial.println("%");
   Serial.print("The soil humidity is ");
   Serial.print(humidity);
   Serial.println("%");
