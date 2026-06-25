@@ -2,7 +2,7 @@
 ![3D](./Media/Excalidraw/Explaining.png)
 
 ## The reason I made it
-I have a plant at a remote location and I only go there once in a while, I was afraid that that plant might die because of the lack of water so I decided to make this device. It work by connecting a water pump to it, it then drives this pump every 20 days by default (configurable in the code). It measure the soil humidity for feedback to the user (which is delivered through SMS).
+I have a plant at a remote location and I only go there once in a while, I was afraid that that plant might die because of the lack of water so I decided to make this device. It work by connecting a water pump to it, then it drives this pump every 20 days by default (configurable in the code). It measures the soil humidity for feedback to the user (which is delivered through SMS).
 
 ## The poster
 ![zine](./zine.png)
