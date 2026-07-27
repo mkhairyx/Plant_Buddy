@@ -1,4 +1,4 @@
-# Plant Buddy — Journal Export
+# Plant Buddy
 
 - Exported at: 2026-07-27T00:40:03Z
 - Project ID: 4602
@@ -49,8 +49,8 @@ Added a connector the water flow sensor (mind you that it runs on 5 volts so I h
 Made a lot of things in one day.
 I finished the schematics, the PCB, and what's left for now is the Case and an adapter for the hose as it's too small for the water flow sensor.
 Here's what the PCB and the Schematics look like:
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzUzNTQsInB1ciI6ImJsb2JfaWQifX0=--5653e646cc3eb27e337e15fab6cd36a6af13e2e3/image.png)
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzUzNTUsInB1ciI6ImJsb2JfaWQifX0=--c82a1ad636353cb37792e07fc458527f1abc7155/image.png)
+![image.png](./Media/3_1.png)
+![image.png](./Media/3_2.png)
 
 
 I used the ESP32 devkit as it's more available in my country and cheaper than the wroom module. Plus it helps with reparability. 
@@ -68,7 +68,7 @@ I used the ESP32 devkit as it's more available in my country and cheaper than th
 
 I have connected a ring line so the esp32 can wake up whenever the sim800l module receives a message. Also I'm routing the tracks to both the front and back sides of copper layers as my manufacturer doesn't have plated through holes.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5ODcsInB1ciI6ImJsb2JfaWQifX0=--e879ec62f57ee48e5d28e59d30f78feee3fb8aef/image.png)
+![image.png](./Media/4.png)
 
 for now, I'm still figuring out how the codes will work and there's a lot of undecided things.
 
@@ -85,7 +85,7 @@ for now, I'm still figuring out how the codes will work and there's a lot of und
 
 Extremely exhausted.
 I did the code, made it somewhat basic (no replying to user messages, no measuring for the amount of water poured since I need the sensor to be physically available so I can calibrate the firmware to it). But I believe it is sufficient for now.
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5ODYsInB1ciI6ImJsb2JfaWQifX0=--fad9e22afe26094a917526970c5584272d18ddb2/image.png)
+![image.png](./Media/5.png)
 
 
 ### Recording Links
@@ -102,7 +102,7 @@ I did the code, made it somewhat basic (no replying to user messages, no measuri
 I finished the 3D model. what's left for now is the readme, the zine poster, and some 3D renders for the poster.
 
 Here's how the device looks like:
-![show case v1.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNDMsInB1ciI6ImJsb2JfaWQifX0=--1eedcdd5e7f67ad5a9850a335f26ddefeb2579ef/show case v1.png)
+![show case v1.png](./Media/6.png)
 
 
 ### Recording Links
@@ -117,10 +117,10 @@ Here's how the device looks like:
 ### Content
 
 Me and blender are going through the same thing rn (both of us are crashing out):
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMjcsInB1ciI6ImJsb2JfaWQifX0=--d9c4baa6fbec76f544ed1dbedd5a52ee140debdf/image.png)
+![image.png](./Media/7_1.png)
 
 Beside that, I have finished the showcase on fusion360 and I might be using this for the poster instead of blender:
-![show case v5.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMzAsInB1ciI6ImJsb2JfaWQifX0=--ae6c82f1ae5a569949b480c90822a5063b94f282/show case v5.png)
+![show case v5.png](./Media/7_2.png)
 (it's imperfect but I will improve it)
 
 ### Recording Links
@@ -139,7 +139,7 @@ Finished the render!
 it was kind of hard as my device is 5 years old with a somewhat dated graphics card, but I managed to work with it!
 
 Here's how the render looks like:
-![render.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc4NjUsInB1ciI6ImJsb2JfaWQifX0=--5d4de8eafaf12b22503437273f4f0cef796f303f/render.png)
+![render.png](./Media/8.png)
 
 I wanted to add more grass as it would look more realistic but my device can't handle it.
 
@@ -162,7 +162,7 @@ I made the water tube transparent, added better color to the wires connected to 
 
 Here's what the render looks like:
 
-![render 2.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc5NTUsInB1ciI6ImJsb2JfaWQifX0=--3f38a16dcf98900bf5bd66a15a8441001384fb10/render 2.png)
+![render 2.png](./Media/9.png)
 
 
 ### Recording Links
@@ -179,13 +179,13 @@ Here's what the render looks like:
 Added all the required files.
 
 I made sure all the files are available (like the Fusion files, media, etc.)
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzgxNTEsInB1ciI6ImJsb2JfaWQifX0=--fe3cde287f07394545def9344ca77773f756a376/image.png)
+![image.png](./Media/10_1.png)
 
 
 What's left now is the Zine poster, and the README.
 
 Also made this drawing so reviewers can understand how everything works better:
-![Explaining.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzgxNTIsInB1ciI6ImJsb2JfaWQifX0=--02efdf4c41b276f4ff2361537f982fe54e370075/Explaining.png)
+![Explaining.png](./Media/10_2.png)
 
 
 ### Recording Links
@@ -201,7 +201,7 @@ Also made this drawing so reviewers can understand how everything works better:
 
 I finished the BOM and changed the 1.6Kohm resistor (that is used with the 555 timer for capacitive soil moisture readings) with a 1.5Kohm resistor. 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzg0NTAsInB1ciI6ImJsb2JfaWQifX0=--50fdd30315512c19671af9a33eea8672382b79b6/image.png)
+![image.png](./Media/11.png)
 
 The reason I changed it is that I wasn't able to find 1.6Kohm resistors anywhere.
 
@@ -223,12 +223,12 @@ There's nothing much to say for this journal.
 Here's the README contents:
 
 
-![Screenshot 2026-06-25 at 10.50.21.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzk0MzksInB1ciI6ImJsb2JfaWQifX0=--b6ec57d5922ab6397b2953ede638ac9d1090edc0/Screenshot 2026-06-25 at 10.50.21.png)
+![Screenshot 2026-06-25 at 10.50.21.png](./Media/12_1.png)
 
 
 Here's the zine poster:
 
-![zine.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzk0NDAsInB1ciI6ImJsb2JfaWQifX0=--eacd1e6aaeda748a7a92b6c6eaf58af4f2cccd40/zine.png)
+![zine.png](./Media/12_2.png)
 
 
 ### Recording Links
