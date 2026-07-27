@@ -2,7 +2,7 @@
 // Note to reviewers: I can't imrpove this code as I do not have the hardware available, this is the best I can do.  //
 // I'm willing to utilize the flow meter to measure the water in litres and stop at a specified value,               //
 // but in order to do so, I need the module physically available in order to calibrate it with known amounts of      //
-// water. Also, I will a function to check if there's no water flow while the pump is running                        //
+// water. Also, I will make a function to check if there's no water flow while the pump is running                   //
 // which alerts the user that there's no water available, and stops working until told to continue.                  //
 // In addition to that, I will be using deep sleep, external interupts (in case user sends a message inquiring       //
 // about the device's status), and timer based interupts/wake up. (to water the plant)                               //
