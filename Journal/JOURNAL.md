@@ -10,9 +10,9 @@ Total time spent on project: 20h 56m
 ---
 
 ## Entry 1
-**Total time spent: 2h 2m**
+**Total time spent: 20h 56m**
 - Author: Mo
-- Created At: 2026-06-17T05:17:53Z
+- Created At: 2026-06-17 05:17:53
 
 ### Content
 
